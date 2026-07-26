@@ -1,2 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy as sci
+
 print("Data-science and Machine-Learning = Hello(?)")
-print(f"It smells like team spirit")
+print(f"Nu har vi en start")
